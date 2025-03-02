@@ -1,4 +1,3 @@
-# DevOps-Course-2024
 <h1 align="center">Hi 👋, I'm M.Taimur Aamir</h1>
 <h3 align="center">Constantly learning and looking for opportunities to grow :p</h3>
 
